@@ -1,5 +1,5 @@
 
-/* Ao clicar em "+ Novo Horário" (add time), ir duplicando 
+/* Ao clicar em "+ Novo Horário" (add-time), ir duplicando 
  os horarios disponiveis (schedule-item) abaixo, 
  porem limpando os dados dentro deles! */
 
